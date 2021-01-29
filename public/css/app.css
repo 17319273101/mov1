@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+video{
+    width:100%;
+}
+
+.no-margin-top{
+    margin-top:0;
+}
+
+.no-padding-left{
+    padding-left:0;
+}
+
+#right-list .item{
+    margin-bottom:20px;
+}
+
+.h-20{
+    height: 20px;
+}
+.h-40{
+    height: 40px;
+}
+
+h4{
+    color: black!important;
+}
